@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a machine learning scientist and applied math PhD. working in computational neuroscience and bioinformatics at St Jude.
+I'm a machine learning engineer and applied math PhD. working in computational neuroscience and bioinformatics at St Jude.
 
 * 🔬 Former postdoc in [Kording lab](http://kordinglab.com/) @ the University of Pennsylvania, and former graduate student in [Fairhall lab](https://fairhalllab.com/) @ the University of Washington
 * 🔭 Research interests: deep learning applied to computational pathology, animal behavior analysis, brain-computer inferfaces and biologically-plausible deep learning
