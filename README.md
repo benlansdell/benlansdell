@@ -1,4 +1,4 @@
-### How am I?
+### Who am I?
 
 I'm a machine learning engineer and applied math PhD. working to improve healthcare.
 
